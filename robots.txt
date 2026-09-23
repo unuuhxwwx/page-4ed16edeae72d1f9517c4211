@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://erexlrj.cn/sitemap.xml
